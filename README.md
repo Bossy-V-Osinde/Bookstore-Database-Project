@@ -22,7 +22,8 @@ The goal of this project is to:
 
 ## ERD
 
-Bookstore store ERD
+ 
+<a href="https://github.com/Bossy-V-Osinde/Bookstore-Database-Project/blob/main/Database%20Relationships.jpg">Bookstore store ERD </a>
 
 ![image](https://github.com/user-attachments/assets/9d2bbd03-721e-4bb5-a20c-c345addba7df)
 
