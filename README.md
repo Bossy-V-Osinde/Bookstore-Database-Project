@@ -20,5 +20,9 @@ The goal of this project is to:
 4. Set up user roles and permissions to control access to the database.
 
 
+## ERD
+
+Bookstore store ERD
+
 ![image](https://github.com/user-attachments/assets/9d2bbd03-721e-4bb5-a20c-c345addba7df)
 
