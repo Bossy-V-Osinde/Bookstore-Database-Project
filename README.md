@@ -27,3 +27,8 @@ The goal of this project is to:
 
 ![image](https://github.com/user-attachments/assets/9d2bbd03-721e-4bb5-a20c-c345addba7df)
 
+
+## Contributors
+
+<a href="https://github.com/tonie123">Anthony Kaisa</a>
+<a href="https://github.com/Mike-soft-cyber">Micheal Wachira</a>
