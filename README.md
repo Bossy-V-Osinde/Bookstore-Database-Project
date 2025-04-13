@@ -29,6 +29,16 @@ The goal of this project is to:
 
 
 ## Contributors
+<table>
+ <tr>
+  <td align="Center">
+  <a href="https://github.com/tonie123">
+   <img src="https://avatars.githubusercontent.com/u/200581037?v=4" width =100 height=100>
+  </a> 
+   <br>
+   Anthony Kaisa
+  </td>
+ </tr>
+</table>
 
-<a href="https://github.com/tonie123">Anthony Kaisa</a>
 <a href="https://github.com/Mike-soft-cyber">Micheal Wachira</a>
