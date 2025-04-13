@@ -29,7 +29,7 @@ The goal of this project is to:
 
 
 ## Contributors
-## Contributors
+
 <table>
   <tr>
     <td align="Center">
