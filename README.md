@@ -29,23 +29,25 @@ The goal of this project is to:
 
 
 ## Contributors
+## Contributors
 <table>
- <tr>
-  <td align="Center">
-  <a href="https://github.com/tonie123">
-   <img src="https://avatars.githubusercontent.com/u/200581037?v=4" width =100 height=100>
-  </a> 
-   <br>
-   Anthony Kaisa
-  </td>
-   <td align="Center">
-  <a href="https://github.com/Mike-soft-cyber">
-   <img src="[https://avatars.githubusercontent.com/u/200581037?v=4](https://avatars.githubusercontent.com/u/183381820?v=4)" width =100 height=100>
-  </a> 
-   <br>
-   Micheal Wachira
-  </td>
- </tr>
+  <tr>
+    <td align="Center">
+      <a href="https://github.com/tonie123">
+        <img src="https://avatars.githubusercontent.com/u/200581037?v=4" width="100" height="100">
+      </a> 
+      <br>
+      Anthony Kaisa
+    </td>
+    <td align="Center">
+      <a href="https://github.com/Mike-soft-cyber">
+        <img src="https://avatars.githubusercontent.com/u/183381820?v=4" width="100" height="100">
+      </a> 
+      <br>
+      Micheal Wachira
+    </td>
+  </tr>
 </table>
+
 
 
